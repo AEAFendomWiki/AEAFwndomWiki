@@ -78,3 +78,17 @@ footer {
   color: #c93961;
   border: 1px solid #c93961;
 }
+.block {
+  width: 100%;
+  border: 0 solid transparent;
+  border-width: 0 40px;
+  margin: 0 auto 20px;
+  box-sizing: border-box;
+}
+
+.block-1 {
+  width: calc(100% - 80px);
+  margin: 0 auto 20px;
+}
+
+
