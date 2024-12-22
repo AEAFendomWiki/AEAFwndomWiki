@@ -91,8 +91,8 @@ footer {
   margin: 1 auto 20px;
 }
 .text-block {
-  left: 50%;
-  text-indent: 50%;  
+  left: 35%;
+  text-indent: 35%;  
   /* Данная коррекция обеспечивает точное размещение элемента в центре */
 }
 .top_button {
