@@ -92,7 +92,6 @@ footer {
 }
 .text-block {
   left: 50%;
-  transform: translate(-50%, -50%);
   /* Данная коррекция обеспечивает точное размещение элемента в центре */
 }
 .top_button {
