@@ -92,9 +92,8 @@ footer {
 }
 .text-block {
   position: fixed;
-  top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+ /* transform: translate(-50%, -50%);*/
   /* Данная коррекция обеспечивает точное размещение элемента в центре */
 }
 
