@@ -91,7 +91,11 @@ footer {
   margin: 1 auto 20px;
 }
 .text-block {
-margin-left:100px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* Данная коррекция обеспечивает точное размещение элемента в центре */
 }
 
 
