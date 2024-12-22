@@ -91,7 +91,7 @@ footer {
   margin: 1 auto 20px;
 }
 .text-block {
-  left: 35%;
+  left: calc(50% - 16em);
   text-indent: 35%;  
   /* Данная коррекция обеспечивает точное размещение элемента в центре */
 }
