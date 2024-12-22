@@ -102,7 +102,7 @@ right: 32px; /* Отступ */
 z-index: 99; /* Отображается поверх других элементов */
 border: none; /* Без границы */
 outline: none; /* Без обводки */
-background-color: #000; /* Черный фон */
+background-color: #324343; /* темный фон */
 color: blue; /* синий цвет текста */
 cursor: pointer; /* Курсор-рука */
 padding: 15px; /* Внутренние отступы */
