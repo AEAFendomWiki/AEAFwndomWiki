@@ -112,9 +112,35 @@ font-size: 18px; /* Размер шрифта */
 }
 #scrollToTopBtn:hover {
 background-color: #555; /* Изменение цвета при наведении */
-
-
     
 }
+
+/*Кнопка информация о курсе*/
+
+.button_red {
+
+display: block;
+
+position: relative;
+
+width: 271px;/*Ширина кнопки*/
+
+height: 90px;/*50% высоты изображения*/
+
+padding: 0px;
+
+margin: 10px auto;
+
+line-height: 94px;/*смещение по вертикали*/
+
+border: 0px;
+
+background: url(http://test.1zaicev.ru/wp-content/uploads/2014/06/buttons.png) 0 0 no-repeat;}/*путь к вашей кнопке*/
+
+
+
+.button_red:hover { background-position: 0 -92px;}/*смещение фона*/ 
+
+.t_c { text-align: center !important}
 
 
