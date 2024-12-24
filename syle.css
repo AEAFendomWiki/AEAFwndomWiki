@@ -114,33 +114,24 @@ font-size: 18px; /* Размер шрифта */
 background-color: #555; /* Изменение цвета при наведении */
     
 }
-
-/*Кнопка информация о курсе*/
-
-.button_red {
-
-display: block;
-
-position: relative;
-
-width: 271px;/*Ширина кнопки*/
-
-height: 90px;/*50% высоты изображения*/
-
-padding: 0px;
-
-margin: 10px auto;
-
-line-height: 94px;/*смещение по вертикали*/
-
-border: 0px;
-
-background: images/Download_button.png ;/*путь к вашей кнопке*/
-
-
-
-.button_red:hover { background-position: 0 -92px;}/*смещение фона*/ 
-
-.t_c { text-align: center !important}
+/* красивая кнопка */
+.gradient-button {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+}
+.gradient-button:hover {
+  background-position: right center;
+}
 
 
