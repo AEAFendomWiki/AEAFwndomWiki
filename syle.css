@@ -135,7 +135,7 @@ line-height: 94px;/*смещение по вертикали*/
 
 border: 0px;
 
-background: url(images/Download_button.png) 0 0 no-repeat;}/*путь к вашей кнопке*/
+background: images/Download_button.png ;/*путь к вашей кнопке*/
 
 
 
