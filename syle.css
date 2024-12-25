@@ -149,7 +149,7 @@ background-color: #555; /* Изменение цвета при наведени
 
 .images {
 img{
-width: 50%;
+margin: -50%;
 }
 @media (max-width: 767px) {
 img{
