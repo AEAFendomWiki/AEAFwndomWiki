@@ -93,14 +93,14 @@ footer {
 
 
 /* Общий стиль для всех устройств */
-.text {
+.text-block {
   text-align: right;
   margin-right: 50%;
 }
 
 /* Для мобильных устройств (ширина экрана меньше 768px) */
 @media (max-width: 767px) {
-  .text {
+  .text-block {
     text-align: left;
     margin-right: 0;
   }
