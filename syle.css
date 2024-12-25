@@ -95,8 +95,14 @@ footer {
   left: calc(50% - 16em);
   text-indent: 35%;  
 }
-  /* Данная коррекция обеспечивает точное размещение элемента в центре */
 }
+.text-block {
+  left: 5%;
+  text-indent: 30%;  
+}
+
+
+
 .top_button {
 display: none; /* Кнопка скрыта по умолчанию */
 position: fixed; /* Фиксированное положение */
