@@ -146,5 +146,9 @@ background-color: #555; /* Изменение цвета при наведени
 .gradient-button:hover {
   background-position: right center;
 }
-
+.img-container {
+    background-size: cover;
+    width: x;
+    height: y;
+}
 
