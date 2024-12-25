@@ -90,16 +90,20 @@ footer {
   width: calc(100% - 90px);
   margin: 1 auto 20px;
 }
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
-  .text-block {
-    left: 5%;
-    text-indent: 30%;
-  }
+
+
+/* Общий стиль для всех устройств */
+.text {
+  text-align: right;
+  margin-right: 50%;
 }
 
-.text-block {
-  left: calc(50% - 16em);
-  text-indent: 35%;
+/* Для мобильных устройств (ширина экрана меньше 768px) */
+@media (max-width: 767px) {
+  .text {
+    text-align: left;
+    margin-right: 0;
+  }
 }
 
 
