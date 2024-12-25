@@ -147,14 +147,13 @@ background-color: #555; /* Изменение цвета при наведени
   background-position: right center;
 }
 
-.images {
-img{
-margin: -50%;
+.images img {
+    margin: -50%;
 }
+
 @media (max-width: 767px) {
-img{
-margin: -20%;
-}
-}
+    .images img {
+        margin: -20%;
+    }
 }
 
