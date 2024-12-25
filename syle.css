@@ -153,7 +153,7 @@ margin: -50%;
 }
 @media (max-width: 767px) {
 img{
-    width: 80%;
+margin: -20%;
 }
 }
 }
