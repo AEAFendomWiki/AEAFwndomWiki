@@ -149,6 +149,8 @@ background-color: #555; /* Изменение цвета при наведени
 
 .images img {
     margin: -50%;
+    width: 400px;
+    height: 400px;
 }
 
 @media (max-width: 767px) {
