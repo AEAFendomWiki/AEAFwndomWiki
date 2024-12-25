@@ -90,7 +90,7 @@ footer {
   width: calc(100% - 90px);
   margin: 1 auto 20px;
 }
-@media screen and (max-width:450px){
+@media screen and (max-width:1000px){
 .text-block {
   left: calc(50% - 16em);
   text-indent: 35%;  
