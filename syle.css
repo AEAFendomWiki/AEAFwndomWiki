@@ -90,16 +90,17 @@ footer {
   width: calc(100% - 90px);
   margin: 1 auto 20px;
 }
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-.text-block {
-  left: 5%;
-  text-indent: 30%;  
- }
-   }
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  .text-block {
+    left: 5%;
+    text-indent: 30%;
+  }
+}
+
 .text-block {
   left: calc(50% - 16em);
-  text-indent: 35%;  
-    }
+  text-indent: 35%;
+}
 
 
 
