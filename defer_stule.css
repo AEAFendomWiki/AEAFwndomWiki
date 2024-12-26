@@ -1,1 +1,23 @@
+.images img {
+    margin: -50%;
+    width: 400px;
+    height: 400px;
+}
+
+@media (max-width: 767px) {
+    .images img {
+        margin: -20%;
+    }
+}
+
+
+.noto-sans-<uniquifier> {
+  font-family: "Noto Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 
