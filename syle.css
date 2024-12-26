@@ -159,3 +159,15 @@ background-color: #555; /* Изменение цвета при наведени
     }
 }
 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.noto-sans-<uniquifier> {
+  font-family: "Noto Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
