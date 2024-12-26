@@ -85,12 +85,12 @@ footer {
   margin: 0 auto 20px;
   box-sizing: border-box;
 }
-
+/*
 .block-1 {
   width: calc(100% - 90px);
   margin: 1 auto 20px;
 }
-
+*/
 
 /* Общий стиль для всех устройств */
 .text-block {
