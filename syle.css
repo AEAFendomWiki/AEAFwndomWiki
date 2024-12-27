@@ -18,11 +18,11 @@ nav ul {
     background-color: #444;
     overflow: hidden;
 }
-
+/*
 nav ul li {
     float: left;
 }
-
+*/
 nav ul li a {
     display: block;
     color: white;
