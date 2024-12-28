@@ -1,4 +1,4 @@
-User-agent: Googlebot
+User-agent: *
 Crawl-delay: 1
 Host: https://aeafendomwiki.github.io/AEAFwndomWiki/
 Sitemap: https://aeafendomwiki.github.io/AEAFwndomWiki/sitemap.xml
