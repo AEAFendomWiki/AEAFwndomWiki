@@ -1,4 +1,5 @@
 User-agent: *
 Crawl-delay: 1
-Host: https://aeafendomwiki.github.io/AEAFwndomWiki/
-Sitemap: https://aeafendomwiki.github.io/AEAFwndomWiki/sitemap.xml
+Host:https://aeafendomwiki.github.io/AEAFwndomWiki/
+Sitemap:https://aeafendomwiki.github.io/AEAFwndomWiki/sitemap.xml
+sitemap:https://aeafendomwiki.github.io/AEAFwndomWiki/sitemaps_images.xml
