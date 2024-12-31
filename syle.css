@@ -110,7 +110,7 @@ footer {
 
 .top_button {
 display:inline-block;
-position: (--iurii_n); 
+position: sticky; 
 bottom: 22px; /* Отступы */
 right: 32px; /* Отступ */
 z-index: 99; /* Отображается поверх других элементов */
