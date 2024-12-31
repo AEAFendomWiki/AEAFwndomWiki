@@ -109,8 +109,8 @@ footer {
 
 
 .top_button {
-display:block
-position: fixed; /* Фиксированное положение */
+display:block;
+position: --iurii_n; /* Фиксированное положение */
 bottom: 22px; /* Отступы */
 right: 32px; /* Отступ */
 z-index: 99; /* Отображается поверх других элементов */
