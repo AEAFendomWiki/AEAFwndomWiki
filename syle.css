@@ -101,7 +101,7 @@ footer {
 /* Для мобильных устройств (ширина экрана меньше 768px) */
 @media (max-width: 767px) {
   .text-block {
-    text-align: left;
+    text-align: calc(50% + 15em);
     margin-right: 0;
   }
 }
