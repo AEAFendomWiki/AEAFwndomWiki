@@ -109,7 +109,7 @@ footer {
 
 
 .top_button {
-display: none; /* Кнопка скрыта по умолчанию */
+display:block /* Кнопка скрыта по умолчанию */
 position: fixed; /* Фиксированное положение */
 bottom: 22px; /* Отступы */
 right: 32px; /* Отступ */
