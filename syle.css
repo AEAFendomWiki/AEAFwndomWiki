@@ -109,7 +109,7 @@ footer {
 
 
 .top_button {
-display:block /* Кнопка скрыта по умолчанию */
+display:block
 position: fixed; /* Фиксированное положение */
 bottom: 22px; /* Отступы */
 right: 32px; /* Отступ */
@@ -121,7 +121,7 @@ color: blue; /* синий цвет текста */
 cursor: pointer; /* Курсор-рука */
 padding: 15px; /* Внутренние отступы */
 border-radius: 10px; /* Скругленные углы */
-font-size: 18px; /* Размер шрифта */
+font-size: 20px; /* Размер шрифта */
 }
 #scrollToTopBtn:hover {
 background-color: #555; /* Изменение цвета при наведении */
