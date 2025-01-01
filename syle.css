@@ -112,7 +112,7 @@ footer {
 displayinline-block:inline-block;
 position: sticky; 
 bottom: 22px; /* Отступы */
-right: 10px;
+left: 10px;
 z-index: 99; /* Отображается поверх других элементов */
 border: none; /* Без границы */
 outline: none; /* Без обводки */
