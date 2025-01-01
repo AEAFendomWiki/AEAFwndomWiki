@@ -107,7 +107,7 @@ footer {
 }
 
 .top_button {
-    display: inline-block; /* Исправлено: добавлен двоеточие */
+    display:none; /*inline-block; */
     position: sticky; 
     right: 20px;
     bottom: 90px;
