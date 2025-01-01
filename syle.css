@@ -95,7 +95,7 @@ footer {
 /* Общий стиль для всех устройств */
 .text-block {
   text-align: right;
-  margin-right: left;
+  /*margin-right: left;*/
 }
 
 /* Для мобильных устройств (ширина экрана меньше 768px) */
