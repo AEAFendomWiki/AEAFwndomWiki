@@ -109,8 +109,8 @@ footer {
 .top_button {
     display: inline-block; /* Исправлено: добавлен двоеточие */
     position: sticky; 
-    bottom: 22px; /* Отступы */
-    left: 10px;
+    right: 20px;
+    bottom: 100px;
     z-index: 99; /* Отображается поверх других элементов */
     border: none; /* Без границы */
     outline: none; /* Без обводки */
