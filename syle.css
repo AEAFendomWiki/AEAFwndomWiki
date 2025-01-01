@@ -112,7 +112,7 @@ footer {
 displayinline-block:inline-block;
 position: sticky; 
 bottom: 22px; /* Отступы */
-right: 20px;
+right: 10px;
 z-index: 99; /* Отображается поверх других элементов */
 border: none; /* Без границы */
 outline: none; /* Без обводки */
@@ -121,7 +121,7 @@ color: blue; /* синий цвет текста */
 cursor: pointer; /* Курсор-рука */
 padding: 15px; /* Внутренние отступы */
 border-radius: 10px; /* Скругленные углы */
-font-size: 20px; /* Размер шрифта */
+font-size: 23px; /* Размер шрифта */
 }
 #scrollToTopBtn:hover {
 background-color: #555; /* Изменение цвета при наведении */
