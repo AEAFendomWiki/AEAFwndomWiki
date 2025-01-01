@@ -106,27 +106,27 @@ footer {
   }
 }
 
-
-
 .top_button {
-displayinline-block:inline-block;
-position: sticky; 
-bottom: 22px; /* Отступы */
-left: 10px;
-z-index: 99; /* Отображается поверх других элементов */
-border: none; /* Без границы */
-outline: none; /* Без обводки */
-background-color: #324343; /* темный фон */
-color: blue; /* синий цвет текста */
-cursor: pointer; /* Курсор-рука */
-padding: 15px; /* Внутренние отступы */
-border-radius: 10px; /* Скругленные углы */
-font-size: 23px; /* Размер шрифта */
+    display: inline-block; /* Исправлено: добавлен двоеточие */
+    position: sticky; 
+    bottom: 22px; /* Отступы */
+    left: 10px;
+    z-index: 99; /* Отображается поверх других элементов */
+    border: none; /* Без границы */
+    outline: none; /* Без обводки */
+    background-color: #324343; /* Темный фон */
+    color: blue; /* Синий цвет текста */
+    cursor: pointer; /* Курсор-рука */
+    padding: 15px; /* Внутренние отступы */
+    border-radius: 10px; /* Скругленные углы */
+    font-size: 23px; /* Размер шрифта */
 }
-#scrollToTopBtn:hover {
-background-color: #555; /* Изменение цвета при наведении */
-    
+
+.top_button:hover {
+    background-color: #555; /* Изменение цвета при наведении */
 }
+
+
 /* красивая кнопка */
 .gradient-button {
   text-decoration: none;
