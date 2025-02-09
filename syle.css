@@ -146,4 +146,18 @@ footer {
 .gradient-button:hover {
   background-position: right center;
 }
+.button {
+       padding: 15px 25px;
+       background-color: #5E716F;
+       color: white;
+       border: none;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       margin: 4px 2px;
+       cursor: pointer;
+       border-radius: 5px;
+        }
+
 
